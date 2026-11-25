@@ -1,4 +1,4 @@
-<p align="center"><a href="https://trivial.si"><img src="../assets/trivial-superintelligence.png" width="520" alt="Trivial Superintelligence — It's not so trivial."></a></p>
+<p align="center"><a href="https://trivial.si"><img src="../assets/trivial-github-light.png" width="320" alt="Trivial Superintelligence — It's not so trivial."></a></p>
 
 # Trivial.si
 
