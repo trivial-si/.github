@@ -5,7 +5,7 @@
 
 # Trivial.si
 
-**Trivial Superintelligence** builds software and works alongside teams on AI-assisted data engineering. We develop Sljeme, our platform for data delivery, and share useful tools as open source.
+**Trivial Superintelligence** is building in stealth. We share useful tools along the way.
 
 ## Open source
 
@@ -19,6 +19,6 @@ Bug reports, documentation, testing, design, and code are welcome. Each project 
 
 ## About Trivial
 
-Learn about our team, Sljeme, and our work at **[trivial.si](https://trivial.si)**.
+Find us at **[trivial.si](https://trivial.si)**.
 
 *It's not so trivial.*
