@@ -1,4 +1,7 @@
-<p align="center"><a href="https://trivial.si"><img src="../assets/trivial-github-light.png" width="320" alt="Trivial Superintelligence — It's not so trivial."></a></p>
+<p align="center">
+  <a href="https://trivial.si/#gh-light-mode-only"><img src="../assets/trivial-logo-light.png#gh-light-mode-only" width="480" alt="Trivial Superintelligence — It's not so trivial."></a>
+  <a href="https://trivial.si/#gh-dark-mode-only"><img src="../assets/trivial-logo-dark.png#gh-dark-mode-only" width="480" alt="Trivial Superintelligence — It's not so trivial."></a>
+</p>
 
 # Trivial.si
 
